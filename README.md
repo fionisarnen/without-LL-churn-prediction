@@ -8,5 +8,5 @@ proof that ewc overcome fogetting while the traditional suffer from forgetting (
 here the model use Keras as the training system by training on new task while validating on previous task. The sign of quality performance shown by trainset (which on new task) and testset (on prev task)
 
 This repository directly connected to my other repository:
-https://github.com/fionisarnen/without-LL-churn-prediction
+https://github.com/fionisarnen/Lifelong-Learning-churn-prediction-torch
 
