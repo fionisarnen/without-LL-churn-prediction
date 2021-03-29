@@ -8,5 +8,5 @@ The normal or 'traditional' sequential training vs dynamic sequential training. 
 This repository directly connected to my other repository:
 https://github.com/fionisarnen/Lifelong-Learning-churn-prediction-torch
 
-> You can find more about this project through my publications : > You can find the details of this project through my publication: https://ieeexplore.ieee.org/document/9212924
+> You can find more about this project through my publications :https://ieeexplore.ieee.org/document/9212924
 
