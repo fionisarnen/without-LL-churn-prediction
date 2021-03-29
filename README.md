@@ -3,10 +3,10 @@ This implementation will compare the significant performance of churn prediction
 
 Scenario : xA,yA as the previous task (Task 1) and xB,yB as the new task (Task 2). What we want to focus:
 
-the normal or 'traditional' sequential training vs dynamic sequential training
-proof that ewc overcome fogetting while the traditional suffer from forgetting (also overfitting)
-here the model use Keras as the training system by training on new task while validating on previous task. The sign of quality performance shown by trainset (which on new task) and testset (on prev task)
+The normal or 'traditional' sequential training vs dynamic sequential training. Proof that EWC overcome fogetting while the traditional suffer from forgetting (also overfitting). Here the model use Keras library to build baseline model as the training model. It works by training on new task while validating on previous task. Indication for quality performance shown by trainset (which on new task) and testset (on prev task)
 
 This repository directly connected to my other repository:
 https://github.com/fionisarnen/Lifelong-Learning-churn-prediction-torch
+
+> You can find more about this project through my publications : > You can find the details of this project through my publication: https://ieeexplore.ieee.org/document/9212924
 
